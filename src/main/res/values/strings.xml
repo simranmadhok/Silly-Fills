@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Silly Fills</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game__instructions">Game_Instructions</string>
+    <string name="title_activity_game__instructions1">Game_Instructions1</string>
+    <string name="welcome_player">Welcome Player</string>
+    <string name="once_the_square_is_created_place_it_anywhere_on_the_screen_your_target_is_to_fill_the_entire_screen_with_squares_within_the_given_time_limit">Once the square is created, place it anywhere on the screen. Your target is to fill the entire screen with squares within the given time limit</string>
+    <string name="your_target_is_to_fill_the_entire_screen_with_squares_within_the_given_time_limit">Your target is to fill the entire screen with squares within the given time limit.</string>
+    <string name="ready">Ready</string>
+    <string name="you_have_to_tap_the_screen_to_create_a_square">You have to tap the screen to create a square.</string>
+    <string name="game_instructions">Game Instructions</string>
+    <string name="create_squares_on_screen_tap_and_place_them_anywhere_on_the_screen">Create squares on screen tap and place them anywhere on the screen.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_game__instructions2">Game_Instructions2</string>
+    <string name="Continue">Continue</string>
+    <string name="tap_anywhere_on_the_screen_to_create_a_circle" />
+    <string name="your_target_is_to_fill_up_the_entire_screen_with_circles" />
+    <string name="level_2" />
+</resources>

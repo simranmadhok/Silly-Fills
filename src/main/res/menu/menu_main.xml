@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.app2.sgame.squareout.MainActivity">
+    <item
+        android:id="@+id/item1"
+        android:title="Main Page"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/item2"
+        android:title="Pause"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/item3"
+        android:title="Start Again"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/item4"
+        android:title="Game Instructions"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/item5"
+        android:title="Exit"
+        app:showAsAction="ifRoom"/>
+</menu>

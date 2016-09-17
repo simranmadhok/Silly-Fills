@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.app2.sgame.squareout">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app_ui_main"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.app2.sgame.squareout.Splash_Screen"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.app2.sgame.squareout.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.app2.sgame.squareout.Game_Instructions"
+            android:label="@string/title_activity_game__instructions"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.app2.sgame.squareout.Main2Activity"
+            android:label="Silly Fills"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.app2.sgame.squareout.Game_Instructions2"
+            android:label="@string/title_activity_game__instructions2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.app2.sgame.squareout.Game_Levels"></activity>
+    </application>
+
+</manifest>
