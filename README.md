@@ -15,11 +15,7 @@ ________________________________________________________________________________
 Previews
 
 
-![dashboard level](https://i.imgur.com/cIlC6v5.png)
-
-![level1](https://i.imgur.com/wNTMPA5.png)
-
-![level2](https://i.imgur.com/hsAfSPb.png)
+![dashboard level](https://i.imgur.com/cIlC6v5.png)  ![level1](https://i.imgur.com/wNTMPA5.png)  ![level2](https://i.imgur.com/hsAfSPb.png)
 
 
 
