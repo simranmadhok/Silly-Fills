@@ -15,7 +15,7 @@ ________________________________________________________________________________
 Previews
 
 
-![dashboard level](https://www.flickr.com/photos/136676568@N04/shares/3uuJoF)
+![dashboard level](https://i.imgur.com/cIlC6v5.png)
 
 
 
